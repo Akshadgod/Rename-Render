@@ -11,9 +11,9 @@ API_ID = os.environ.get("API_ID", "27981265")
 
 API_HASH = os.environ.get("API_HASH", "e2e52a1550b8dea246b64617a768eee2")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6427707984:AAEs8eKxd_LnlXFp0dfRAcMm45CxU2kzUr0") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6794726091:AAGYbMp86gBULVTlv6-NEP4HeIyiSqO_95E") 
 
-FORCE_SUB = os.environ.get("FORCE_SUB", "VJ_Botz") 
+FORCE_SUB = os.environ.get("FORCE_SUB", "Rename") 
 
              # Don't Remove Credit @VJ_Botz
              # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
@@ -21,7 +21,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "VJ_Botz")
 
 DB_NAME = os.environ.get("DB_NAME", "renamevjbot")     
 
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://Akshadgod:14643583pp@@cluster0.nnyqicw.mongodb.net/?retryWrites=true&w=majority")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://Akshadgod:14643583pp@cluster0.nnyqicw.mongodb.net/?retryWrites=true&w=majority")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
