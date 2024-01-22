@@ -7,13 +7,13 @@ import re, os
 
 id_pattern = re.compile(r'^.\d+$') 
 
-API_ID = os.environ.get("API_ID", "27981265")
+API_ID = os.environ.get("API_ID", "25271554")
 
-API_HASH = os.environ.get("API_HASH", "e2e52a1550b8dea246b64617a768eee2")
+API_HASH = os.environ.get("API_HASH", "cf9936ecab34ec6f25be13dd4bca3eaa")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6794726091:AAGYbMp86gBULVTlv6-NEP4HeIyiSqO_95E") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6866641743:AAER3tuQxJykOwztpuSBoXQ-sTxPBxmcXAY") 
 
-FORCE_SUB = os.environ.get("FORCE_SUB", "Rename") 
+FORCE_SUB = os.environ.get("FORCE_SUB", "VJ_Botz") 
 
              # Don't Remove Credit @VJ_Botz
              # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
@@ -27,7 +27,7 @@ FLOOD = int(os.environ.get("FLOOD", "10"))
 
 START_PIC = os.environ.get("START_PIC", "https://te.legra.ph/file/119729ea3cdce4fefb6a1.jpg")
 
-ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '5236678934').split()]
+ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '6433074514').split()]
 
 PORT = os.environ.get("PORT", "8080")
 
