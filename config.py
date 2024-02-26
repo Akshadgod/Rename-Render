@@ -7,13 +7,13 @@ import re, os
 
 id_pattern = re.compile(r'^.\d+$') 
 
-API_ID = os.environ.get("API_ID", "25271554")
+API_ID = os.environ.get("API_ID", "27981265")
 
-API_HASH = os.environ.get("API_HASH", "cf9936ecab34ec6f25be13dd4bca3eaa")
+API_HASH = os.environ.get("API_HASH", "e2e52a1550b8dea246b64617a768eee2")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6621913506:AAFmQjHVpAhVhPfFVcKc4utnFK6j9-miVbw") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6925450321:AAHXHlCLRlwSCsAWd8uHAVKLcc5FbqWT1ow") 
 
-FORCE_SUB = os.environ.get("FORCE_SUB", "rrrtesting") 
+FORCE_SUB = os.environ.get("FORCE_SUB", "VJ_Botz") 
 
              # Don't Remove Credit @VJ_Botz
              # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
